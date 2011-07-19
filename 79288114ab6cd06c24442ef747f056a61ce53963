@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAHX//+Lg\u003d",
+        "filename": "wpa_supplicant/config_file.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 927,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-07-19T16:05:01Z",
+      "side": 1,
+      "message": "No, because that branch is only hit if malloc returned NULL, so no memory was actually allocated.",
+      "parentUuid": "AAAAHX//+MA\u003d",
+      "revId": "79288114ab6cd06c24442ef747f056a61ce53963",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAHX//+Lw\u003d",
         "filename": "wpa_supplicant/config_file.c",
         "patchSetId": 1
