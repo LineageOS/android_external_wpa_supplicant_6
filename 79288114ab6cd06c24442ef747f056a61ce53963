@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHX//+MA\u003d",
+        "filename": "wpa_supplicant/config_file.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 927,
+      "author": {
+        "id": 1119
+      },
+      "writtenOn": "2011-07-19T13:56:39Z",
+      "side": 1,
+      "message": "shouldn\u0027t free() be called here to free malloced memory?",
+      "revId": "79288114ab6cd06c24442ef747f056a61ce53963",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
